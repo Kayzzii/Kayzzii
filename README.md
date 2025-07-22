@@ -40,4 +40,4 @@
 
 ---
 
-*"La mejor forma de aprender es enseñar."* — Daniel Espinosa
+*"Un hacker que no enseña, es solo un usuario más."* — Brian Lara
