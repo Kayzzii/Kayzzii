@@ -33,17 +33,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4nYeD&layout=compact&theme=dracula)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D4nYeD&show_icons=true&theme=dracula)
-
----
-
 ## 🌍 Encontrame en
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/D4nYeD)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/D4nYeD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/brianlara/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)]()
 
 ---
 
