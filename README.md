@@ -1,6 +1,6 @@
 <h1 align="center">Kayzzi</h1>
 <p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="banner" />
+  <img src="https://github.com/Kayzzii/Kayzzii/banner.png" alt="banner" />
 </p>
 
 ## 👨‍💻 Brian Lara | CyberSec & SysAdmin in Progress
