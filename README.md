@@ -1,4 +1,3 @@
-<h1 align="center">Kayzzi</h1>
 <p align="center">
   <img src="https://github.com/Kayzzii/Kayzzii/blob/main/banner.png" alt="banner" />
 </p>
