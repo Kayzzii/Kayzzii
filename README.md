@@ -19,7 +19,7 @@
 
 ## 🕵️ En CTFs me conocen por...
 
-*Describí tu experiencia o premios aquí.*
+*Proximamente.*
 
 ---
 
